@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://avaliadorapp.com</homePageLink>
+		<homePageLink>https://appdomilhao.fun</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://avaliadorapp.com/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://avaliadorapp.com/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://avaliadorapp.com/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://avaliadorapp.com/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://avaliadorapp.com/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://appdomilhao.fun/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://appdomilhao.fun/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://appdomilhao.fun/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://appdomilhao.fun/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://appdomilhao.fun/wp-json/" />
 			</apis>
 	</service>
 </rsd>
